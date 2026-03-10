@@ -137,5 +137,6 @@ Inicialmente se encontraron los siguientes archivos:</p>
 <p class="has-line-data" data-line-start="155" data-line-end="156">Esta práctica permitió comprender el proceso completo de despliegue de una aplicación web estática dentro de un entorno contenerizado utilizando Docker. Asimismo, se reforzaron habilidades técnicas relacionadas con Linux, Git y servidores web, así como la importancia de una correcta estructura de archivos para el funcionamiento adecuado de una aplicación web.</p>
 <hr>
 <p class="has-line-data" data-line-start="159" data-line-end="162">Autor: Edgar Eduardo Lopez Orozco<br>
+  Autor: Keyna vianney Villa Vera<br>
 Materia: (Computación en la Nube(361)<br>
 Institución: (Universidad Autonoma de Baja California )</p>
