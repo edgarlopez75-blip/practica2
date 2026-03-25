@@ -184,9 +184,4 @@ which mysqldump
 crontab -e
 
 # 6. Ver tareas configuradas
-crontab -l
-```
-
----
-
-*Documentación generada el 24 de marzo de 2026*
+crontab -e
