@@ -124,6 +124,6 @@ function lsGPS(latitud, longitud) {
 // ── Para probar, cambia los argumentos y ejecuta esta función ─
 function probar() {
   ls("a");
-  lsV("CALLE", "DELANTE");
-  lsGPS(21.88, -102.28);
+  lsV("CALLE", "JUÁREZ");
+  lsGPS(31.86, -116.60);
 }
