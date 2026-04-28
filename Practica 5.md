@@ -186,5 +186,8 @@ crontab -l
 ```
 
 ---
+Autor: Keyna vianney Villa Vera<br>
+Materia: (Computación en la Nube(361)<br>
+Institución: (Universidad Autonoma de Baja California )</p>
 
 *Documentación generada el 25 de marzo de 2026*
