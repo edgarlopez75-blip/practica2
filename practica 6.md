@@ -1,4 +1,4 @@
-# Normalización del DENUE — Directorio Estadístico Nacional de Unidades Económicas
+# Normalización del DENUE
  
 > **Materia:** Bases de Datos / Análisis de Datos  
 > **Herramienta:** Microsoft Excel  
