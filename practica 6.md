@@ -1,8 +1,10 @@
 # Normalización del DENUE
  
-> **Materia:** Bases de Datos / Análisis de Datos  
+> **Materia:** Computación en la Nube(361)
+> **Maestro** GUILLERMO ALEJANDRO CHAVEZ SANCHEZ
 > **Herramienta:** Microsoft Excel  
 > **Fuente de datos:** INEGI — DENUE (Directorio Estadístico Nacional de Unidades Económicas)
+> **Integrantes:** Keyna Vianney,Edgar Eduardo
  
 ---
  
